@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: nosakhare/nginx:latest
+          image: nosakhare/nginx:v0.1.1
           ports:
             - containerPort: 80
 
